@@ -8,4 +8,4 @@ Ill also put in each one of the images so you dont have to download anything ;) 
 
 (Im currently 17 and unemployed ;) if you like this im happy to talk about this on a video call or something) 
 
-Have a wonderful day!
+Have a wonderful day! - Published under unlisence softwhare but basicly I dont care what you do with it :) some warning or attribution is always nice tho!
