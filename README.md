@@ -80,5 +80,5 @@ Here were my closing thoughts as I was making this (deseptively named intro):
 
 ![Closing thoughts](https://github.com/syntheticsam/deltastrikeui/blob/main/INTRO.png?raw=true)
 
-And finaly please remove overheating. Thank you.
+**And finaly please remove overheating. Thank you.**
 
