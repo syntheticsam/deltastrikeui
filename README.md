@@ -11,7 +11,8 @@ Ill also put in each one of the images so you dont have to download anything ;) 
 Have a wonderful day! - Published under unlisence softwhare but basicly I dont care what you do with it :) some warning or attribution is always nice tho!
 
 Without further adu lets begin!
-P.S. There may be some weird formatting
+
+P.S. Sorry in advance about the weird formatting.
 
 # Welcome Screen
 The first thing a player will see when they put on the vest.
@@ -26,6 +27,7 @@ Not much to say here, the pfp images are the ones I use for beatsaber and I had 
 When a player gets into a game this is what they will see.
 
 Uses my base template: 
+
 ![Base Template](https://github.com/syntheticsam/deltastrikeui/blob/main/Base%20Block.png?raw=true)
 
 | Not Signed In | Signed In |
